@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-#Short Description of the game:
+Short Description of the game:
 I have made a GUI based 2-player 3*3 tic tac toe game where the user clicks some buttons to play 
 the game and show whether the game is a Tie or Win, and this is the layout of our game.
 ![image](https://user-images.githubusercontent.com/97659145/208608801-66961df7-460f-4f45-84b0-86623e2120da.png)
