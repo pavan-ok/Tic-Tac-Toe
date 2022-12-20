@@ -5,9 +5,9 @@ I have made a GUI based 2-player 3*3 tic tac toe game where the user clicks some
 <br>
 the game and show whether the game is a Tie or Win, and this is the layout of our game.
 <br>
-![image](https://user-images.githubusercontent.com/97659145/208608801-66961df7-460f-4f45-84b0-86623e2120da.png)
+![image](https://user-images.githubusercontent.com/97659145/208610809-25d2ea79-0e29-4fea-ad01-bd0f7cac5279.png)
 <br>
-user must be able to get a valid formation to get a point
+User must be able to get a valid formation to get a point
 <br>
 Valid-Formations are
 <br>
@@ -17,7 +17,7 @@ User Manual:
 <br>
 User must download project1.exe to play the game
 <br>
-user can see who's turn in the top right side
+User can see who's turn in the top right side
 <br>
 User can start a new game using the button "new Game"
 <br>
